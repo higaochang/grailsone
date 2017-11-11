@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: file://Users/chang/Developer/ciab-config-repo
           searchPaths: sub,*
         bootstrap: true
